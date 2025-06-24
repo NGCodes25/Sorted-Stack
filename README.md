@@ -18,7 +18,7 @@ This Java project accepts an array of integers from the user and stores them in 
 
 ### Clone the repository:
 ```
-git clone https://github.com/ngiam792/Sorted-Stack
+git clone https://github.com/NGCodes25/Sorted-Stack
 ```
 ```
 cd Sorted-Stack
