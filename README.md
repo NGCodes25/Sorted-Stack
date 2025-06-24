@@ -33,7 +33,7 @@ javac *.java
 
 * Run the program:
 ```
-java Main
+java SortedStack
 ```
 
 
